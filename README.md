@@ -8,3 +8,4 @@
     
     17.02.2022
         G-H-Pulner entrou no projeto
+        Ingrid está fazendo coisas
