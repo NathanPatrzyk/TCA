@@ -7,5 +7,4 @@
         Tags Header, Main, Footer e Divs.  
     
     17.02.2022
-        G-H-Pulner entrou no projeto
-        Ingrid está fazendo coisas
+        G-H-Pulner entrou no projeto.
