@@ -55,7 +55,7 @@ body{
 }
 
 .principal{
-    background-image: url(/Imagens/imagens_vanguardas/Vanguardas.png);
+    background: url(/TCA/Imagens/imagens_vanguardas/Vanguardas.png);
     max-height: 70vh;
 }
 
