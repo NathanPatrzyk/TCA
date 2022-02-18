@@ -55,7 +55,7 @@ body{
 }
 
 .principal{
-    background-image: url("/menu/img/Vanguardas.png");
+    background-image: url(/menu/img/Vanguardas.png);
     max-height: 60vh;
     margin-bottom: 30px;
 }
