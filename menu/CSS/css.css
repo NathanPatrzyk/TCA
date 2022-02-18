@@ -63,7 +63,7 @@ body{
     margin: 4vw;
     text-align: center;
     height: 20vh;
-    width: 96vw;
+    width: 90vw;
 }
 
 .secundaria a{
@@ -84,6 +84,7 @@ body{
     border: 0;
 }
 
+.secundaria
 .lista ul{
     padding: 10px;
 }
