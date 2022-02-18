@@ -56,14 +56,15 @@ body{
 
 .principal{
     background-image: url(/menu/img/Vanguardas.png);
-    max-height: 70vh;
+    max-height: 60vh;
+    margin-bottom: 30px;
 }
 
 .secundaria{
-    margin: 4vw;
+    margin: 0 auto;
     text-align: center;
     height: 20vh;
-    width: 90vw;
+    width: 60vw;
 }
 
 .secundaria a{
@@ -81,16 +82,17 @@ body{
 .secundaria a:hover{
     color: #fff;
     background-color: #CE9302;
-    border: 0;
+    border: 1px solid #CE9302;
 }
 
-.secundaria
 .lista ul{
     padding: 10px;
 }
 
 footer{
     background-color: #293039;
+    margin-top: 40px;
+    padding-bottom: 40px;
 }
 
 footer div{
@@ -104,4 +106,26 @@ footer div{
 footer p{
     padding: 2px;
     color: #fff;
+}
+
+.secundaria h2{
+    padding: 2vh;
+    background-color: #293039;
+    text-align: left;
+    border-bottom: 1vh solid #CE9302;
+    color: #CE9302;
+}
+
+.secundaria p{
+    margin: 4vh;
+    text-align: left;
+}
+
+.secundaria{
+    margin-bottom: 8vh;
+}
+
+.outros{
+    padding-top: 24px;
+    border-top: 2px solid #293039;
 }
