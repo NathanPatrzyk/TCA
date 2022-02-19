@@ -7,11 +7,13 @@
     background-color: #293039;
 }
 
+
 .logo p{
     font-size: 8vh;
     color: #594E73;
     padding: 2vw;
 }
+
 
 .lista-navegacao a{
     color: #fff;
@@ -19,9 +21,11 @@
     transition: 0.3s;
 }
 
+
 .lista-navegacao a:hover{
     opacity: 0.7;
 }
+
 
 nav{
     display: flex;
