@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    background-color: #293039;
+}
+
+.logo p{
+    font-size: 8vh;
+    color: #1B1AA4;
+    padding: 2vw;
+}
+
+.lista-navegacao a{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.lista-navegacao a:hover{
+    opacity: 0.7;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #CB5311;
+    height: 8vh;
+}
+
+.lista-navegacao{
+    list-style: none;
+    display: flex;
+}
+
+.lista-navegacao li{
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    font-size: 10vh;
+    padding-left: 8vw;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    color: #1B1AA4;
+}
+
+.principal{
+    background: url(img/Expressionismo.png) no-repeat center;
+    background-size: 720px 410px;
+    margin-bottom: 20px;
+    background-color: #293039;
+}
+
+.secundaria{
+    margin: 0 auto;
+    text-align: center;
+    height: 20vh;
+    width: 60vw;
+}
+
+.secundaria a{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #293039;
+    color: #293039;
+    max-width: 100%;
+    text-align: center;
+    height: 16vh;
+    border-radius: 8vh;
+    text-decoration: none;
+}
+
+.secundaria a:hover{
+    color: #fff;
+    background-color: #CB5311;
+    border: 1px solid #CB5311;
+}
+
+
+.lista ul{
+    padding: 10px;
+}
+
+footer{
+    background-color: #293039;
+    margin-top: 20vh;
+    padding-bottom: 40px;
+}
+
+footer div{
+    text-align: left;
+    width: 40vw;
+    margin: 0 auto;
+    padding-top: 8vh;
+}
+
+@media (max-width: 499px){
+    footer{
+        margin-top: 90vh;
+    }
+    
+}
+
+footer p{
+    padding: 2px;
+    color: #fff;
+}
+
+.secundaria h2{
+    padding: 2vh;
+    background-color: #293039;
+    text-align: left;
+    border-bottom: 1vh solid #CB5311;
+    color: #1B1AA4;
+}
+
+.secundaria p{
+    margin: 4vh;
+    text-align: left;
+}
+
+.secundaria{
+    margin-bottom: 4vh;
+}
+
+.listagem{
+    margin: 0 auto;
+    margin-bottom: 16vh;
+}
+
+.outros{
+    padding-top: 24px;
+    border-top: 2px solid #293039;
+}
+
+.secundaria ul{
+    list-style: none;
+    display: inline-block;
+    align-content: center;
+}
+
+.secundaria li{
+    margin-bottom: 8vh;
+}
+
+.logo img{
+    max-width: 6vw;
+    margin: 2vh;
+    float: left;
+}
+.logo p{
+    font-weight: 600;
+}
