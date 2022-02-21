@@ -91,9 +91,9 @@ body{
 
 footer{
     background-color: #293039;
-    margin-top: 20vh;
     padding-bottom: 40px;
 }
+
 
 footer div{
     text-align: left;
@@ -157,5 +157,9 @@ footer p{
     float: left;
 }
 .logo p{
+    font-weight: 600;
+}
+
+.negrito{
     font-weight: 600;
 }

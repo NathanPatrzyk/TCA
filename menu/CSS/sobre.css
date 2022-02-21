@@ -91,9 +91,9 @@ body{
 
 footer{
     background-color: #293039;
-    margin-top: 20vh;
     padding-bottom: 40px;
 }
+
 
 footer div{
     text-align: left;
@@ -158,4 +158,42 @@ footer p{
 }
 .logo p{
     font-weight: 600;
+}
+
+.representante img{
+    max-height: 100px;
+    float: left;
+    margin: 30px;
+
+    height: 100px;
+    width: 100px;
+
+    border-radius: 50%;
+}
+
+.representante p{
+    padding: 70px;
+    margin: 0px;
+    margin-top: 0px;
+
+}
+
+.representante section{
+    margin-top: 30px;
+}
+
+.representante div{
+    max-height: 400px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+    border: 2px #293039 solid;
+    border-radius: 10px;
+
+    background-color: #293039;
+    color: #fff;
+}
+
+code{
+    font-size: 22px;
 }
