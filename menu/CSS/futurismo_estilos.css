@@ -9,7 +9,7 @@
 
 .logo p{
     font-size: 8vh;
-    color: #CE9302;
+    color: #CE2B37;
     padding: 2vw;
 }
 
@@ -27,7 +27,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #CE9302;
+    background-color: #009246;
     height: 8vh;
 }
 
@@ -50,11 +50,11 @@ body{
     padding-left: 8vw;
     padding-top: 150px;
     padding-bottom: 150px;
-    color: #CE9302;
+    color: #CE2B37;
 }
 
 .principal{
-    background: url(img/Vanguardas.png) no-repeat center;
+    background: url(img/Futurismo.png) no-repeat center;
     background-size: 720px 410px;
     margin-bottom: 20px;
     background-color: #293039;
@@ -80,8 +80,8 @@ body{
 
 .secundaria a:hover{
     color: #fff;
-    background-color: #CE9302;
-    border: 1px solid #CE9302;
+    background-color: #009246;
+    border: 1px solid #009246;
 }
 
 
@@ -118,8 +118,8 @@ footer p{
     padding: 2vh;
     background-color: #293039;
     text-align: left;
-    border-bottom: 1vh solid #CE9302;
-    color: #CE9302;
+    border-bottom: 1vh solid #009246;
+    color: #CE2B37;
 }
 
 .secundaria p{
